@@ -69,4 +69,8 @@ public class Book {
 			}
 		}
 		
+		void setKind(String type) {
+			this.type=type;
+		}
+		
 }
